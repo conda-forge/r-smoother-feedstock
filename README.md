@@ -1,11 +1,11 @@
-About r-smoother
-================
+About r-smoother-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-smoother-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=smoother
 
 Package license: GPL-2
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-smoother-feedstock/blob/main/LICENSE.txt)
 
 Summary: A collection of methods for smoothing numerical data, commencing with a port of the Matlab gaussian window smoothing function. In addition, several functions typically used in smoothing of financial data are included.
 
